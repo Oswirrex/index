@@ -10,7 +10,7 @@
       {
         "id": 1,
         "played": false,
-        "playtime": "2013-02-02 01:00:00 UTC",
+        "playtime": "2019-06-30 12:00:00 UTC",
         "away": {
           "id": 1,
           "name": "Los Cocos",
@@ -19,6 +19,21 @@
         "local": {
           "id": 2,
           "name": "Los Conejos",
+          "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+        }
+      },
+      {
+        "id": 2,
+        "played": false,
+        "playtime": "2019-06-30 13:00:00 UTC",
+        "away": {
+          "id": 3,
+          "name": "Los Archilopitecus",
+          "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+        },
+        "local": {
+          "id": 4,
+          "name": "Los Veganos",
           "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
         }
       }
