@@ -1,0 +1,27 @@
+// de ser posible partidos agrupados por fecha
+// Referee Matches
+{
+	"id": 1,
+	"email": "oswaldo.gallor@gmail.com",
+	"image": "https://lakewangaryschool.sa.edu.au/wp-content/uploads/2017/11/placeholder-profile-sq.jpg",
+	"name": "Oswaldo",
+	"last_name": "Gallo",
+	"second_last_name": "Romero",
+	"matches": [
+		{
+			"id": 1,
+			"played": false,
+			"playtime": "2013-02-02 01:00:00 UTC ",
+			"away": {
+				"id": 1,
+				"name": "Los Cocos",
+				"image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+			},
+			"local": {
+				"id": 2,
+				"name": "Los Conejos",
+				"image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+			},
+		}
+	]
+}
