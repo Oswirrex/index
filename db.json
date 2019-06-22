@@ -1,42 +1,42 @@
 {
-  "index": {
+  "profile": {
     "id": 1,
     "email": "oswaldo.gallor@gmail.com",
     "image": "https://lakewangaryschool.sa.edu.au/wp-content/uploads/2017/11/placeholder-profile-sq.jpg",
     "name": "Oswaldo",
     "last_name": "Gallo",
     "second_last_name": "Romero",
-    "matches": [
-      {
+  },
+  "matches": [
+    {
+      "id": 1,
+      "played": false,
+      "playtime": "2019-06-30 12:00:00 UTC",
+      "away": {
         "id": 1,
-        "played": false,
-        "playtime": "2019-06-30 12:00:00 UTC",
-        "away": {
-          "id": 1,
-          "name": "Los Cocos",
-          "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-        },
-        "local": {
-          "id": 2,
-          "name": "Los Conejos",
-          "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-        }
+        "name": "Los Cocos",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
       },
-      {
+      "local": {
         "id": 2,
-        "played": false,
-        "playtime": "2019-06-30 13:00:00 UTC",
-        "away": {
-          "id": 3,
-          "name": "Los Archilopitecus",
-          "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-        },
-        "local": {
-          "id": 4,
-          "name": "Los Veganos",
-          "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-        }
+        "name": "Los Conejos",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
       }
-    ]
-  }
+    },
+    {
+      "id": 2,
+      "played": false,
+      "playtime": "2019-06-30 13:00:00 UTC",
+      "away": {
+        "id": 3,
+        "name": "Los Archilopitecus",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+      },
+      "local": {
+        "id": 4,
+        "name": "Los Veganos",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+      }
+    }
+  ]
 }
