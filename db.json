@@ -58,5 +58,61 @@
       "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
       "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
     }
+  ],
+  "regulations": [
+    {
+      "title": "Regulation 1",
+      "body": "Lorem ipsum dolor sit amet",
+      "subregulations": [
+        {
+          "title": "Subregulation 1",
+          "body": "Lorem ipsum dolor sit amet"
+        },
+        {
+          "title": "Subregulation 2",
+          "body": "Lorem ipsum dolor sit amet"
+        },
+        {
+          "title": "Subregulation 3",
+          "body": "Lorem ipsum dolor sit amet"
+        }
+      ]
+    },
+    {
+      "title": "Regulation 2",
+      "body": "Lorem ipsum dolor sit amet",
+      "subregulations": [
+        {
+          "title": "Subregulation 1",
+          "body": "Lorem ipsum dolor sit amet"
+        },
+        {
+          "title": "Subregulation 2",
+          "body": "Lorem ipsum dolor sit amet"
+        },
+        {
+          "title": "Subregulation 3",
+          "body": "Lorem ipsum dolor sit amet"
+        }
+      ]
+    },
+    {
+      "title": "Regulation 3",
+      "body": "Lorem ipsum dolor sit amet",
+      "subregulations": [
+        {
+          "title": "Subregulation 1",
+          "body": "Lorem ipsum dolor sit amet"
+        },
+        {
+          "title": "Subregulation 2",
+          "body": "Lorem ipsum dolor sit amet"
+        },
+        {
+          "title": "Subregulation 3",
+          "body": "Lorem ipsum dolor sit amet"
+        }
+      ]
+    }
   ]
 }
