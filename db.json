@@ -126,5 +126,75 @@
         }
       ]
     }
-  ]
+  ],
+  "match": {
+    "id": 1,
+    "date": "2019-12-12",
+    "time": "18:00",
+    "field": "Estadio Revolución",
+    "away": {
+      "id": 1,
+      "name": "Los Cocos",
+      "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
+      "players": [
+        {
+          "id": 1,
+          "name": "Juan",
+          "last_name": "Cebolla",
+          "position": "Delantero",
+          "shirt_number": 1,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": false
+        },
+        {
+          "id": 2,
+          "name": "Pedro",
+          "last_name": "Zanahoria",
+          "position": "Portero",
+          "shirt_number": 2,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": false
+        }
+      ],
+      "trainer": {
+        "id": 1,
+        "name": "Oswaldo",
+        "last_name": "Gallo",
+        "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+        "is_present": false
+      }
+    },
+    "local": {
+      "id": 2,
+      "name": "Los Conejos",
+      "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
+      "players": [
+        {
+          "id": 3,
+          "name": "Daniel",
+          "last_name": "Cilantro",
+          "position": "Delantero",
+          "shirt_number": 1,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": false
+        },
+        {
+          "id": 4,
+          "name": "Alfredo",
+          "last_name": "Epazote",
+          "position": "Portero",
+          "shirt_number": 2,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": false
+        }
+      ],
+      "trainer": {
+        "id": 2,
+        "name": "Enrique",
+        "last_name": "Vaca",
+        "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+        "is_present": false
+      }
+    }
+  }
 }
