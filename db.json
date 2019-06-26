@@ -62,66 +62,66 @@
   "regulations": [
     {
       "id": 1,
-      "title": "Regulation 1",
+      "title": "Regulation A",
       "body": "Lorem ipsum dolor sit amet",
       "subregulations": [
         {
           "id":4,
-          "title": "Subregulation 1",
+          "title": "Subregulation A1",
           "body": "Lorem ipsum dolor sit amet"
         },
         {
           "id":5,
-          "title": "Subregulation 2",
+          "title": "Subregulation A2",
           "body": "Lorem ipsum dolor sit amet"
         },
         {
           "id":6,
-          "title": "Subregulation 3",
+          "title": "Subregulation A3",
           "body": "Lorem ipsum dolor sit amet"
         }
       ]
     },
     {
       "id": 2,
-      "title": "Regulation 2",
+      "title": "Regulation B",
       "body": "Lorem ipsum dolor sit amet",
       "subregulations": [
         {
           "id":7,
-          "title": "Subregulation 1",
+          "title": "Subregulation B1",
           "body": "Lorem ipsum dolor sit amet"
         },
         {
           "id":8,
-          "title": "Subregulation 2",
+          "title": "Subregulation B2",
           "body": "Lorem ipsum dolor sit amet"
         },
         {
           "id":9,
-          "title": "Subregulation 3",
+          "title": "Subregulation B3",
           "body": "Lorem ipsum dolor sit amet"
         }
       ]
     },
     {
       "id": 3,
-      "title": "Regulation 3",
+      "title": "Regulation C",
       "body": "Lorem ipsum dolor sit amet",
       "subregulations": [
         {
           "id":10,
-          "title": "Subregulation 1",
+          "title": "Subregulation C1",
           "body": "Lorem ipsum dolor sit amet"
         },
         {
           "id":11,
-          "title": "Subregulation 2",
+          "title": "Subregulation C2",
           "body": "Lorem ipsum dolor sit amet"
         },
         {
           "id":12,
-          "title": "Subregulation 3",
+          "title": "Subregulation C3",
           "body": "Lorem ipsum dolor sit amet"
         }
       ]
