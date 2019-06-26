@@ -132,6 +132,7 @@
     "date": "2019-12-12",
     "time": "18:00",
     "field": "Estadio Revolución",
+    "played": false,
     "away": {
       "id": 1,
       "name": "Los Cocos",
