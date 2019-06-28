@@ -11,7 +11,8 @@
     {
       "id": 1,
       "played": false,
-      "playtime": "2019-06-30 12:00:00 UTC",
+      "date": "2019-12-12",
+      "time": "18:00",
       "away": {
         "id": 1,
         "name": "Los Cocos",
@@ -26,7 +27,8 @@
     {
       "id": 2,
       "played": false,
-      "playtime": "2019-06-30 13:00:00 UTC",
+      "date": "2019-12-13",
+      "time": "13:00",
       "away": {
         "id": 3,
         "name": "Los Archilopitecus",
