@@ -147,7 +147,7 @@
           "position": "Delantero",
           "shirt_number": 1,
           "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
-          "is_present": false
+          "is_present": null
         },
         {
           "id": 2,
@@ -156,7 +156,7 @@
           "position": "Portero",
           "shirt_number": 2,
           "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
-          "is_present": false
+          "is_present": null
         }
       ],
       "trainer": {
@@ -164,7 +164,7 @@
         "name": "Oswaldo",
         "last_name": "Gallo",
         "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
-        "is_present": false
+        "is_present": null
       }
     },
     "local": {
@@ -179,7 +179,7 @@
           "position": "Delantero",
           "shirt_number": 1,
           "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
-          "is_present": false
+          "is_present": null
         },
         {
           "id": 4,
@@ -188,7 +188,7 @@
           "position": "Portero",
           "shirt_number": 2,
           "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
-          "is_present": false
+          "is_present": null
         }
       ],
       "trainer": {
@@ -196,7 +196,7 @@
         "name": "Enrique",
         "last_name": "Vaca",
         "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
-        "is_present": false
+        "is_present": null
       }
     }
   }
