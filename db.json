@@ -23,6 +23,38 @@
         "name": "Los Zapotecos",
         "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
       }
+    },
+    {
+      "id": 2,
+      "played": false,
+      "play_date": "2019-12-13",
+      "play_time": "13:00",
+      "away": {
+        "id": 3,
+        "name": "Los Archilopitecus",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+      },
+      "local": {
+        "id": 4,
+        "name": "Los Veganos",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+      }
+    },
+    {
+      "id": 3,
+      "played": false,
+      "play_date": "2019-01-13",
+      "play_time": "13:00",
+      "away": {
+        "id": 5,
+        "name": "Los Zamolangos",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+      },
+      "local": {
+        "id": 6,
+        "name": "Los Perrisprietos",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+      }
     }
   ],
   "posts": [
