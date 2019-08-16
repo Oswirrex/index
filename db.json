@@ -15,12 +15,12 @@
       "play_time": "18:00",
       "away": {
         "id": 1,
-        "name": "Los Rasta",
+        "name": "Los Chapoy",
         "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
       },
       "local": {
         "id": 2,
-        "name": "Los Conejos",
+        "name": "Los Zapotecos",
         "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
       }
     }
