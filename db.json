@@ -39,6 +39,22 @@
         "name": "Los Veganos",
         "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
       }
+    },
+    {
+      "id": 3,
+      "played": false,
+      "play_date": "2019-01-13",
+      "play_time": "13:00",
+      "away": {
+        "id": 5,
+        "name": "Los Zamolangos",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+      },
+      "local": {
+        "id": 6,
+        "name": "Los Perrisprietos",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+      }
     }
   ],
   "posts": [
